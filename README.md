@@ -120,3 +120,6 @@ To run the unit tests navigate to project folder, and run `pytest`:
 
 ## Conclusion
 This project provides API endpoints for managing glucose data and options for local deployment using Docker Compose. The project is built with FastAPI and SQLAlchemy, providing a robust and scalable solution.
+
+## Sources used for Help
+Used google for searching for syntax, debugging. Took help from GPT to write the README, docstrings, and debugging.
